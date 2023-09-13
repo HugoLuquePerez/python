@@ -27,3 +27,13 @@ booleano = True
 # Nulo None
 
 nulo=None
+
+""" Varibles en Python """
+
+nombre="Hugo"
+apellido='Perez'
+edad=25
+altura=1.75
+peso=.85
+casado=False
+estatura=True
